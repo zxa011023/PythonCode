@@ -1,2 +1,5 @@
-print ("我的第一隻Python程式")
+print ("我不會寫程式")
+
+name=input("Can you write the program?\n")
+print("So sad~")
 	
